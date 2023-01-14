@@ -1,4 +1,4 @@
-package com.example.Asincrona9.entity;
+package com.example.Asincrona18.entity;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;

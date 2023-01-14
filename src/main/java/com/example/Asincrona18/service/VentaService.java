@@ -1,8 +1,8 @@
-package com.example.Asincrona9.service;
+package com.example.Asincrona18.service;
 
 import java.util.List;
 
-import com.example.Asincrona9.entity.Venta;
+import com.example.Asincrona18.entity.Venta;
 
 public interface VentaService {
 public List<Venta> listarTodos();

@@ -1,4 +1,4 @@
-package com.example.Asincrona9.controller;
+package com.example.Asincrona18.controller;
 
 import java.util.List;
 
@@ -7,8 +7,8 @@ import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;
 
-import com.example.Asincrona9.entity.Venta;
-import com.example.Asincrona9.service.VentaService;
+import com.example.Asincrona18.entity.Venta;
+import com.example.Asincrona18.service.VentaService;
 
 @Controller
 public class VentaController {
